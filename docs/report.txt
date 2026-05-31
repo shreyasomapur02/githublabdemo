@@ -1,1 +1,22 @@
-GitHub Lab Demonstration
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub Lab Demo</title>
+</head>
+<body>
+
+    <h1>GitHub Project Management Demonstration</h1>
+
+    <p>This repository demonstrates:</p>
+
+    <ul>
+        <li>Repository Management</li>
+        <li>Version Control</li>
+        <li>Branching</li>
+        <li>Pull Requests</li>
+        <li>Issue Tracking</li>
+        <li>Project Management</li>
+    </ul>
+
+</body>
+</html>
